@@ -1,0 +1,1 @@
+<question source="https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/QuestionLinking/questions/Page_1_2_3/P3_Multiple-choice-ques2.md"/>
