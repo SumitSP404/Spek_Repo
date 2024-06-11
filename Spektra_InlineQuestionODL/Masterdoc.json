@@ -1,0 +1,85 @@
+[
+  {
+    "Name": "Inline questions",
+    "Language": "English",
+    "BaseURL": "https://github.com/SumitSP404/Spek_Repo/tree/main",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page_1_2_3/P1_About_VPC.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/RawFileContent.md",
+        "Order": 2,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [
+                "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page_1_2_3/P2_Single-choice-ques1.md"
+                ],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/RawFileContent.md",
+        "Order": 3,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [
+                "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page_1_2_3/P3_Multiple-choice-ques2.md"
+                ],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/RawFileContent.md",
+        "Order": 4,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": ["https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page%204/P4_Single_Multiple.md"],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/RawFileContent.md",
+        "Order": 5,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": ["https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page_5_6/Grouped_Question_metadata.md"],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/RawFileContent.md",
+        "Order": 6,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [
+              "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page_7_8/Grouped_Multiple_metadata.md"],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page%2011/Completion.md",
+        "Order": 7,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [
+              "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Spektra_InlineQuestionODL/Page_9_10/Grp_Single_Multiple_metadata.md"],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+      }
+    ]
+  }
+]
