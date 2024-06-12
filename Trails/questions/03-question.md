@@ -29,8 +29,4 @@ tag2
 ## Number of Retries
 0
 
-## Metadata
-Question Type : Multiple Choice
-
-Max Answers : 2
 
