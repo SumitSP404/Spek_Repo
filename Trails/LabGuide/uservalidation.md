@@ -89,6 +89,12 @@ Below are the images where the actions performed for the points i to v
 
 *YOU HAVE SUCCESSFULLY COMPLETED THE IAM-USER CREATION*.
 
+Please answer the following question
+<question source="https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Trails/questions/01-question.md"/>
+
+Please answer the following question
+<question source="https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Trails/questions/02-question.md"/>
+
 
 
 
