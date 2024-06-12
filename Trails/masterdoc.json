@@ -1,0 +1,26 @@
+[
+    {
+      "Name": "Inline questions",
+      "Language": "English",
+      "BaseURL": "https://github.com/SumitSP404/Spek_Repo/tree/main",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Trails/LabGuide/uservalidation.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Trails/questions/02-question.md",
+          "Order": 2,
+          "UnlockingRules": [
+            {
+              "UnlockDependency": "Questions",
+              "DependentQuestions": [
+                  "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Trails/questions/01-question.md"
+                  ],
+              "UnlockCriteria": "AnsweredCorrectly"
+            }
+          ]
+        }
+    ]
+    }
+]
