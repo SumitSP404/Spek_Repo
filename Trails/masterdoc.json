@@ -20,7 +20,20 @@
               "UnlockCriteria": "AnsweredCorrectly"
             }
           ]
-        }
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Trails/LabGuide/test2.md",
+            "Order": 3,
+            "UnlockingRules": [
+              {
+                "UnlockDependency": "Questions",
+                "DependentQuestions": [
+                    "https://raw.githubusercontent.com/SumitSP404/Spek_Repo/main/Trails/questions/02-question.md"
+                    ],
+                "UnlockCriteria": "AnsweredCorrectly"
+              }
+            ]
+          }
     ]
     }
 ]
